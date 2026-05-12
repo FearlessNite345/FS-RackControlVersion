@@ -6,6 +6,7 @@
 - Made client script load order explicit so helper functions load before client startup logic
 - Made the `loadout` command configurable
 - Made the `armor` command configurable
+- Added a configurable weapon sling feature with front/back slots, `/sling` command support, allowed weapon lists, and optional auto-unsling detection
 - Refactored the weapon racking system to be fully modular, allowing server owners to define and manage any number of rackable weapons via the config
 - Refactored the loadout system to be fully modular, allowing server owners to define exactly which weapons and items are granted via the config
 
